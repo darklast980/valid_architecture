@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T23:08:01.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="KNijeXclRKLfWuBzwA3_" version="13.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-08-21T23:26:42.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="tl6X-lnYBo8Q15jyIpPk" version="13.6.4" type="github" pages="7">
   <diagram id="3Z4HGTAeJOfSgXJO2EE8" name="Architecture diagram">
     <mxGraphModel dx="698" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aeV3KL5qsYHs90z9vnIN" name="Logical_view Cass Diagram">
-    <mxGraphModel dx="988" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="q47XXMy06vcLs6m7PjXC-0" />
         <mxCell id="q47XXMy06vcLs6m7PjXC-1" parent="q47XXMy06vcLs6m7PjXC-0" />
@@ -197,13 +197,13 @@
           <mxGeometry y="78" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="_V-ciLzRMmR70oOrLtIT-0" value="Class Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=30;" vertex="1" parent="q47XXMy06vcLs6m7PjXC-1">
-          <mxGeometry x="40" y="170" width="880" height="600" as="geometry" />
+          <mxGeometry x="50" y="170" width="880" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wNF2deI92gWooSQUobt5" name="Logical_view Sequence Diagram">
-    <mxGraphModel dx="1525" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nI6IcT22dKutOiFusC0w-0" />
         <mxCell id="nI6IcT22dKutOiFusC0w-1" parent="nI6IcT22dKutOiFusC0w-0" />
@@ -423,7 +423,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yl8JKhdRoIGTyChEAgW2" name="Proccess_view Activities Diagram">
-    <mxGraphModel dx="847" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TkR7sN7rjVH2LLCTjwWD-0" />
         <mxCell id="TkR7sN7rjVH2LLCTjwWD-1" parent="TkR7sN7rjVH2LLCTjwWD-0" />
