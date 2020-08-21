@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T22:13:46.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="hIqLrt5HnNxkhwuKAsss" version="13.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-08-21T22:14:28.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="BmmYpNq08ejWBF-d3anv" version="13.6.4" type="github" pages="7">
   <diagram id="3Z4HGTAeJOfSgXJO2EE8" name="Architecture diagram">
     <mxGraphModel dx="698" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7WA7yahKyAZapHvGksFw-0" />
         <mxCell id="7WA7yahKyAZapHvGksFw-1" parent="7WA7yahKyAZapHvGksFw-0" />
-        <mxCell id="hEu5X6d9ZQQ06EEKqq-L-0" value="Architecture valid" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=30;" vertex="1" parent="7WA7yahKyAZapHvGksFw-1">
+        <mxCell id="hEu5X6d9ZQQ06EEKqq-L-0" value="Architecture&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=30;" vertex="1" parent="7WA7yahKyAZapHvGksFw-1">
           <mxGeometry x="40" y="40" width="640" height="280" as="geometry" />
         </mxCell>
         <mxCell id="hEu5X6d9ZQQ06EEKqq-L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7WA7yahKyAZapHvGksFw-1" target="hEu5X6d9ZQQ06EEKqq-L-2">
