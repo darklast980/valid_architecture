@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T23:02:15.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0V9iE669IbxjAIIHu8Nl" version="13.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-08-21T23:04:27.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="90B6IEoh6bNVti8rZuvo" version="13.6.4" type="github" pages="7">
   <diagram id="3Z4HGTAeJOfSgXJO2EE8" name="Architecture diagram">
     <mxGraphModel dx="698" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -614,7 +614,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TdTHTcD3lTNX5v169SHN" name="Development_view Package Diagram">
-    <mxGraphModel dx="988" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UDpiqUlWZIhdIgxIM8yK-0" />
         <mxCell id="UDpiqUlWZIhdIgxIM8yK-1" parent="UDpiqUlWZIhdIgxIM8yK-0" />
@@ -624,14 +624,11 @@
         <mxCell id="tR071kTBl7_91hpqoZUk-0" value="Auth0" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="UDpiqUlWZIhdIgxIM8yK-1">
           <mxGeometry x="100" y="290" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="tR071kTBl7_91hpqoZUk-4" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="UDpiqUlWZIhdIgxIM8yK-1">
-          <mxGeometry x="540" y="530" width="150" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="tR071kTBl7_91hpqoZUk-5" value="DataBase" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="UDpiqUlWZIhdIgxIM8yK-1">
-          <mxGeometry x="530" y="300" width="150" height="110" as="geometry" />
+          <mxGeometry x="440" y="290" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="tR071kTBl7_91hpqoZUk-6" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="UDpiqUlWZIhdIgxIM8yK-1">
-          <mxGeometry x="90" y="520" width="150" height="110" as="geometry" />
+        <mxCell id="tR071kTBl7_91hpqoZUk-6" value="business logic" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="UDpiqUlWZIhdIgxIM8yK-1">
+          <mxGeometry x="300" y="430" width="150" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
